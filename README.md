@@ -6,9 +6,19 @@ This is a **mini HTML & CSS project** showcasing a stylish sidebar navigation wi
 
 ## 📂 Project Structure
 ```
-├── main.html      # Main HTML file
-├── style1.css     # CSS styling for the project
-├── photo.jpg      # Background image (you can replace with your own)
+Mini-Project-Sidebar-Navigation/
+├── 📄 index.html    # Main HTML file
+├── 📄 style.css     # CSS styling for the project
+├── 📄 LICENSE
+├── 📄 README.md
+└── 📂 Screenshots
+   ├── photo.jpg  
+   ├── sidebar-closed.png
+   ├── sidebar-closed-ipad.png
+   ├── sidebar-closed-mobiles.png
+   ├── sidebar-open.png
+   ├── sidebar-open-ipad.png
+   └── sidebar-open-mobiles.png
 ```
 
 ---

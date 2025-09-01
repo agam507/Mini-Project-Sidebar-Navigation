@@ -5,7 +5,7 @@
 }
 
 #outer {
-    background-image: url(photo.jpg);
+    background-image: url(Screenshots/photo.jpg);
     background-size: cover;
     height: 100vh;
 }
@@ -167,7 +167,7 @@ footer p {
 
 #outer .sidebar .menu li:hover {
     box-shadow: 0px 0px 6px rgba(255, 255, 255, 0.5);
-    transition: all 0.2s ease-in;
+    transition: all 0.1s linear;
 }
 
 #outer .sidebar .social_media i:hover {
