@@ -181,10 +181,8 @@ footer p {
     transform: scale(1.2);
 }
 
-.btn_two:hover {
-    color: #ff4c4c; 
-}
-.btn_two i:hover {
+#outer .sidebar .btn_two i:hover {
+    color: red; 
     transform: scale(1.2);
     transition: all 0.2s linear;
 }
